@@ -25,13 +25,13 @@ This repository will contain all the projects seen during the course
 ## Content
 
 
-## 1. TypeScript
+### 1. TypeScript
 
-## Getting Started 
+#### Getting Started 
 If you are using something else than WebStorm IDE or Visual Studio Code, continue otherwhise jump this section
 * Install TypeScript `npm install -g typescript`
 
-## 2. Angular 2
+### 2. Angular 2
 
-## 3. Ionic 2
+### 3. Ionic 2
 
