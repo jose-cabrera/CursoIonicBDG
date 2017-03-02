@@ -31,11 +31,16 @@ This repository will contain all the projects seen during the course
 
 ### 1. TypeScript
 
+**[Official Documentation](https://www.typescriptlang.org/docs/tutorial.html)**
+
 #### Getting Started 
 If you are using something else than WebStorm IDE or Visual Studio Code, continue otherwhise jump this section
 * Install TypeScript `npm install -g typescript`
 
 ### 2. Angular 2
 
+**[Official Documentation](https://angular.io/docs/ts/latest/)**
+
 ### 3. Ionic 2
 
+**[Official Documentation](http://ionicframework.com/docs/)**
