@@ -17,14 +17,14 @@ This repository will contain all the projects seen during the course
  - [Getting Started](#getting-started-course)
  - [Course Content](#content)
  
- ## Getting Started Course
+## Getting Started Course
 * Clone this repository: `git clone https://github.com/jose-cabrera/CursoIonicBDG.git`.
 * Install NodeJS: [Install Node JS](#https://nodejs.org/en/)
 * Follow the instructions for every project
 
 ## Content
 
-```
+
 ## 1. TypeScript
 
 ## Getting Started 
@@ -34,4 +34,4 @@ If you are using something else than WebStorm IDE or Visual Studio Code, continu
 ## 2. Angular 2
 
 ## 3. Ionic 2
-```
+
