@@ -14,8 +14,12 @@ Instructor José Cabrera
 This repository will contain all the projects seen during the course
 
 ## Table of Contents
- - [Getting Started](#getting-started-course)
- - [Course Content](#content)
+ * [Getting Started](#getting-started-course)
+ * [Course Content](#content)
+  * [TypeScript](#typescript)
+  * [Angular 2](#angular_2)
+  * [Ionic 2](#ionic_2)
+ 
  
 ## Getting Started Course
 * Clone this repository: `git clone https://github.com/jose-cabrera/CursoIonicBDG.git`.
