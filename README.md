@@ -23,7 +23,7 @@ This repository will contain all the projects seen during the course
  
 ## Getting Started Course
 * Clone this repository: `git clone https://github.com/jose-cabrera/CursoIonicBDG.git`.
-* Install NodeJS: [Install Node JS](#https://nodejs.org/en/)
+* Install NodeJS: [Install Node JS](https://nodejs.org/en/)
 * Follow the instructions for every project
 
 ## Content
