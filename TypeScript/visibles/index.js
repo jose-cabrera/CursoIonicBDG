@@ -6,3 +6,5 @@ var hola = (function () {
     }
     return hola;
 }());
+var h = new hola();
+h.edad = 23;
