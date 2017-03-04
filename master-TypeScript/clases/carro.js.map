@@ -1,1 +1,1 @@
-{"version":3,"file":"carro.js","sourceRoot":"","sources":["carro.ts"],"names":[],"mappings":"AAAA;;GAEG"}
+{"version":3,"file":"carro.js","sourceRoot":"","sources":["carro.ts"],"names":["carro","carro.constructor"],"mappings":"AAAA;;GAEG;AAEH;IAOIA,kCAAkCA;IAElCA,eAAYA,KAAaA,EAAEA,KAAaA,EAAEA,MAAcA,EAAEA,IAAYA;QAClEC,IAAIA,CAACA,KAAKA,GAAGA,KAAKA,CAACA;QACnBA,IAAIA,CAACA,KAAKA,GAAGA,KAAKA,CAACA;QACnBA,IAAIA,CAACA,MAAMA,GAAGA,MAAMA,CAACA;QACrBA,IAAIA,CAACA,IAAIA,GAAGA,IAAIA,CAACA;IACrBA,CAACA;IACLD,YAACA;AAADA,CAACA,AAfD,IAeC;AAfY,aAAK,QAejB,CAAA"}

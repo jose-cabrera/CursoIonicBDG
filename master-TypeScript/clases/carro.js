@@ -1,8 +1,6 @@
 /**
  * Created by j5zunig on 3/3/17.
  */
-"use strict";
-exports.__esModule = true;
 var carro = (function () {
     // No existe sobrecarga de métodos
     function carro(color, marca, modelo, year) {
@@ -12,5 +10,6 @@ var carro = (function () {
         this.year = year;
     }
     return carro;
-}());
+})();
 exports.carro = carro;
+//# sourceMappingURL=carro.js.map

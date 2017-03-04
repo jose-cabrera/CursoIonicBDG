@@ -4,5 +4,6 @@
 function holamundo(nombre) {
     return "hola mundo " + nombre;
 }
-var nombre = "Juan Antonio";
+var nombre = "Juan Antonio Z.";
 document.getElementById("container").innerText = holamundo(nombre);
+//# sourceMappingURL=tipado.js.map
