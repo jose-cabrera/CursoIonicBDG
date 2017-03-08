@@ -40,6 +40,7 @@ If you are using something else than WebStorm IDE, continue otherwhise jump this
 ### 2. Angular 2
 
 **[Official Documentation Angular](https://angular.io/docs/ts/latest/)**
+
 **[Official Documentation Angular CLI](https://github.com/angular/angular-cli/wiki)**
 
 #### Getting Started
