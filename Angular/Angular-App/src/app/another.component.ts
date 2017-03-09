@@ -4,10 +4,10 @@ import { Component, OnInit } from '@angular/core';
   selector: 'app-another',
   template: `
     <p>
-      another Works!
+      Rokabye!
     </p>
   `,
-  styles: []
+  styles: [`p {background: #ff8700;}`]
 })
 export class AnotherComponent implements OnInit {
 
