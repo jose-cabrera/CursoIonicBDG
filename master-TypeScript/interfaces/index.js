@@ -1,4 +1,3 @@
-"use strict";
 /**
  * Created by JoséPablo on 03/03/17.
  */
@@ -19,5 +18,5 @@ var demo = (function () {
         var objeto = new demo(d);
     };
     return demo;
-}());
+})();
 //# sourceMappingURL=index.js.map
