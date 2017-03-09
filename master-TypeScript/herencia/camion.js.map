@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"version":3,"file":"camion.js","sourceRoot":"","sources":["camion.ts"],"names":["camion","camion.constructor","camion.crearCamion"],"mappings":"AAAA;;GAEG;AAEH,IAAM,MAAM;IAAZA,SAAMA,MAAMA;IASXC,CAACA;IAHSD,4BAAWA,GAAlBA;IAEAE,CAACA;IACJF,aAACA;AAADA,CAACA,AATF,IASE"}
+=======
+{"version":3,"file":"camion.js","sourceRoot":"","sources":["camion.ts"],"names":[],"mappings":";AAAA;;GAEG;AACH;IAAA;IAYA,CAAC;IANU,4BAAW,GAAlB;QACI,IAAI,CAAC,GAAU,IAAI,MAAM,EAAE,CAAC;QAC5B,CAAC,CAAC,KAAK,GAAG,MAAM,CAAC;QAEjB,MAAM,CAAC,CAAC,CAAC;IACb,CAAC;IACL,aAAC;AAAD,CAAC,AAZD,IAYC;AAZY,cAAM,SAYlB,CAAA"}
+>>>>>>> master

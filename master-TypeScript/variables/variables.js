@@ -1,4 +1,5 @@
 /**
+<<<<<<< HEAD
  * Created by j5zunig on 3/3/17.
  */
 //import {carro} from "./carro.js"
@@ -18,4 +19,25 @@ function miNombre() {
 }
 var miCarro = new carro("Blanco", "Honda", "civic 2000");
 console.log(nombre);
+=======
+ * Created by JoséPablo on 03/03/17.
+ */
+var nombre = "Jose";
+var data = (function () {
+    function data() {
+    }
+    return data;
+}());
+var d;
+function miNombre() {
+    var d = new data();
+    d.apellido = "cabrera";
+    d.nombre = "jose";
+    d.edad = 23;
+    console.log(d);
+}
+console.log(d);
+miNombre();
+console.log(d);
+>>>>>>> master
 //# sourceMappingURL=variables.js.map

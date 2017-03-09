@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"version":3,"file":"bmw.js","sourceRoot":"","sources":["bmw.ts"],"names":[],"mappings":"AAAA;;GAEG"}
+=======
+{"version":3,"file":"bmw.js","sourceRoot":"","sources":["bmw.ts"],"names":[],"mappings":";;;;;;AAAA,uBAAqB,UAAU,CAAC,CAAA;AAChC;;GAEG;AACH;IAAyB,uBAAM;IAA/B;QAAyB,8BAAM;IAI/B,CAAC;IAAD,UAAC;AAAD,CAAC,AAJD,CAAyB,eAAM,GAI9B;AAJY,WAAG,MAIf,CAAA"}
+>>>>>>> master
