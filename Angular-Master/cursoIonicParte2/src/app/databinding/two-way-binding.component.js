@@ -9,8 +9,6 @@ var core_1 = require('@angular/core');
 var TwoWayBindingComponent = (function () {
     function TwoWayBindingComponent() {
     }
-    TwoWayBindingComponent.prototype.ngOnInit = function () {
-    };
     TwoWayBindingComponent = __decorate([
         core_1.Component({
             selector: 'app-two-way-binding',

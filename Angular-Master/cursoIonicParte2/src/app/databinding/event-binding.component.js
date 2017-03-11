@@ -9,13 +9,14 @@ var core_1 = require('@angular/core');
 var EventBindingComponent = (function () {
     function EventBindingComponent() {
     }
-    EventBindingComponent.prototype.onClicked = function () {
+    EventBindingComponent.prototype.onClicked = function (event) {
         alert("Funciono!");
+        console.log(event);
     };
     EventBindingComponent = __decorate([
         core_1.Component({
             selector: 'app-event-binding',
-            template: "\n    <button (click)=\"onClicked()\" >Click me!</button>\n  ",
+            template: "\n    <button (click)=\"onClicked($event)\" >Click me!</button>\n  ",
             styles: []
         })
     ], EventBindingComponent);

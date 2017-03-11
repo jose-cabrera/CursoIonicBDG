@@ -9,11 +9,6 @@ import { Component, OnInit } from '@angular/core';
   `,
   styles: []
 })
-export class TwoWayBindingComponent implements OnInit {
-
-  constructor() { }
-
-  ngOnInit() {
-  }
-
+export class TwoWayBindingComponent {
+  
 }

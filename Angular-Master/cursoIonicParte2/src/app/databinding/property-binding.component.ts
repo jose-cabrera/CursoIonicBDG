@@ -3,12 +3,21 @@ import { Component, Input } from '@angular/core';
 @Component({
   selector: 'app-property-binding',
   template: `
-  {{result}}
+    {{result}}
+  <p>{{hombre}}</p>
+  <p>{{nombre}}</p>
   `,
   styles: []
 })
 export class PropertyBindingComponent {
 
-  @Input() result: number = 0;
+  @Input()
+  public result: number;
+
+  @Input()
+  public hombre: number;
+
+  @Input()
+  public nombre:any;
 
 }

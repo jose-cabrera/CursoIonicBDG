@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, ViewChild} from '@angular/core';
 
 @Component({
   selector: 'app-child-views',
@@ -13,16 +13,13 @@ import { Component, OnInit } from '@angular/core';
   `,
   styles: []
 })
-export class ChildViewsComponent implements ngAfterViewInit{
+export class ChildViewsComponent {
   bindable = "Im a bindable text";
 
   @ViewChild('boundParagraph')
   boundParagraph:HTMLElement;
 
-  @ChildContent('boundContent')
-  boundContent:HTMLElement;
+  // @ChildContent('boundContent')
+  // boundContent:HTMLElement;
 
-  ngAfterViewInit(){
-    console.log(this.boundParagraph);
-  }
 }

@@ -8,15 +8,20 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var core_1 = require('@angular/core');
 var PropertyBindingComponent = (function () {
     function PropertyBindingComponent() {
-        this.result = 0;
     }
     __decorate([
         core_1.Input()
     ], PropertyBindingComponent.prototype, "result");
+    __decorate([
+        core_1.Input()
+    ], PropertyBindingComponent.prototype, "hombre");
+    __decorate([
+        core_1.Input()
+    ], PropertyBindingComponent.prototype, "nombre");
     PropertyBindingComponent = __decorate([
         core_1.Component({
             selector: 'app-property-binding',
-            template: "\n  {{result}}\n  ",
+            template: "\n    {{result}}\n  <p>{{hombre}}</p>\n  <p>{{nombre}}</p>\n  ",
             styles: []
         })
     ], PropertyBindingComponent);

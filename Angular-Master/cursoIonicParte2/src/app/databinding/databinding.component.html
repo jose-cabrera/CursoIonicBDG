@@ -2,27 +2,38 @@
 <p>
   {{stringInterpolation}} | {{numberInterpolation}}
 </p>
-<!--<hr>-->
-<!--<h1>Property Binding</h1>-->
-<!--<input type="text" [value]="value" />-->
+<hr>
+<h1>Property Binding</h1>
+<img [src]="imagen"/>
+<input type="text" [value]="value" />
+<p [class]="getMyClass()"> SOY UN PARRAFO </p>
 <!--&lt;!&ndash; Class &ndash;&gt;-->
 <!--&lt;!&ndash; Style &ndash;&gt;-->
 <!--<hr>-->
-<!--<h1>Custom Property Binding</h1>-->
-<!--<app-property-binding [result]="2013" ></app-property-binding>-->
-<!--<hr>-->
-<!--<h1>Event Binding</h1>-->
-<!--<app-event-binding></app-event-binding>-->
+<h1>Custom Property Binding</h1>
+<!--Aqui te vencimos angular hahaha-->
+<app-property-binding [hombre]="12" [result]="23" [nombre]="'hola que hace! ganamos Angular wahahha'" ></app-property-binding>
+<hr>
+<h1>Event Binding</h1>
+<app-event-binding></app-event-binding>
+
 <!--<app-event-binding (apachado)="onClicked($event)" ></app-event-binding>-->
 <!--<hr>-->
 <h1>Two-Way Binding</h1>
+<input type="text" [(ngModel)]="persona.nombre">
+
+<p>{{persona.nombre}}</p>
+
+<input type="text" [(ngModel)]="persona.edad">
+
+<input type="date" [(ngModel)]="persona.fecha">
 
 
-<div>
-  <ul>
-    <li *ngFor="let item of items">{{item}}</li>
-  </ul>
-</div>
+<!--<div>-->
+  <!--<ul>-->
+    <!--<li *ngFor="let item of items">{{item}}</li>-->
+  <!--</ul>-->
+<!--</div>-->
 
 
 

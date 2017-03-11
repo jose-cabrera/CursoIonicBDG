@@ -11,12 +11,27 @@ var DatabindingComponent = (function () {
         this.stringInterpolation = "Hello";
         this.numberInterpolation = 1993;
         this.value = "Im a value!";
+        this.imagen = "http://angularconnect.com/workspace/2015/img/resources/angular.png";
+        this.persona = {
+            nombre: "jose",
+            edad: 23,
+            fecha: ""
+        };
     }
+    DatabindingComponent.prototype.getMyClass = function () {
+        return "miOtraClase";
+    };
+    DatabindingComponent.prototype.retornarString = function () {
+        return "OTRA COSA";
+    };
+    DatabindingComponent.prototype.getMyObjectClass = function () {
+        return { 'miclase': false };
+    };
     DatabindingComponent = __decorate([
         core_1.Component({
             selector: 'app-databinding',
             templateUrl: './databinding.component.html',
-            styles: []
+            styles: ["\n    .miclase {\n      background-color: black;\n      color : red;\n    }\n    \n    .miOtraClase {\n      color :blue;\n    }\n  "]
         })
     ], DatabindingComponent);
     return DatabindingComponent;

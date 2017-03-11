@@ -14,7 +14,7 @@ var databinding_component_1 = require('./databinding/databinding.component');
 var property_binding_component_1 = require('./databinding/property-binding.component');
 var event_binding_component_1 = require('./databinding/event-binding.component');
 var two_way_binding_component_1 = require('./databinding/two-way-binding.component');
-var child_views_component_1 = require('./child-views.component');
+var child_views_component_1 = require("./child-views/child-views.component");
 var AppModule = (function () {
     function AppModule() {
     }

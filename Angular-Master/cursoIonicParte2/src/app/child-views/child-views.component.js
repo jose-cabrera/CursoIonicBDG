@@ -10,15 +10,9 @@ var ChildViewsComponent = (function () {
     function ChildViewsComponent() {
         this.bindable = "Im a bindable text";
     }
-    ChildViewsComponent.prototype.ngAfterViewInit = function () {
-        console.log(this.boundParagraph);
-    };
     __decorate([
-        ViewChild('boundParagraph')
+        core_1.ViewChild('boundParagraph')
     ], ChildViewsComponent.prototype, "boundParagraph");
-    __decorate([
-        ChildContent('boundContent')
-    ], ChildViewsComponent.prototype, "boundContent");
     ChildViewsComponent = __decorate([
         core_1.Component({
             selector: 'app-child-views',

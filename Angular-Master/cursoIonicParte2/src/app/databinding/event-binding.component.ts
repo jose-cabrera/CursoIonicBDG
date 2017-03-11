@@ -1,16 +1,17 @@
-import { Component, EventEmitter, OutPut } from '@angular/core';
+import { Component, EventEmitter } from '@angular/core';
 
 @Component({
   selector: 'app-event-binding',
   template: `
-    <button (click)="onClicked()" >Click me!</button>
+    <button (click)="onClicked($event)" >Click me!</button>
   `,
   styles: []
 })
 export class EventBindingComponent {
 
-  onClicked(){
+  onClicked(event){
     alert("Funciono!")
+    console.log(event);
   }
 
   //Custom Event
