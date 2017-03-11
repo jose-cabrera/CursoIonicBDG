@@ -1,0 +1,21 @@
+<h1>String Interpolation</h1>
+<p>
+  {{stringInterpolation}} | {{numberInterpolation}}
+</p>
+
+<hr>
+
+<h1>Property Binding</h1>
+<img [src]="imagen"/>
+<input type="text" [value]="value"/>
+<p [ngClass]="getClass()">SOY UN PARRAFO</p>
+
+<h1>Event Binding</h1>
+<app-event-binding>dsd</app-event-binding>
+
+<h1>TwoWay Binding</h1>
+<input type="text" [(ngModel)]="persona.nombre"/>
+<input type="date" [(ngModel)]="persona.edad"/>
+
+<h1>Custom Binding</h1>
+<app-custom-binding [result]="0" [nombre]="'Julio Barquero'"></app-custom-binding>
