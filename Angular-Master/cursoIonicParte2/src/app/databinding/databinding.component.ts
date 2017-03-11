@@ -41,9 +41,9 @@ export class DatabindingComponent {
   };
 
 
-  // onClicked (event : string) {
-  //   alert(event);
-  // }
+  onClicked (event : string) {
+    alert(event);
+  }
 
 }
 

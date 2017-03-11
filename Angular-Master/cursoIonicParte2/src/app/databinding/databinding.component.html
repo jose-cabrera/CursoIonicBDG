@@ -15,7 +15,7 @@
 <app-property-binding [hombre]="12" [result]="23" [nombre]="'hola que hace! ganamos Angular wahahha'" ></app-property-binding>
 <hr>
 <h1>Event Binding</h1>
-<app-event-binding></app-event-binding>
+<app-event-binding (apachado)="onClicked($event)"></app-event-binding>
 
 <!--<app-event-binding (apachado)="onClicked($event)" ></app-event-binding>-->
 <!--<hr>-->
