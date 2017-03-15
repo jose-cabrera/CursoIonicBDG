@@ -9,7 +9,16 @@ var core_1 = require('@angular/core');
 var AppComponent = (function () {
     function AppComponent() {
         this.title = 'app works!';
+        //*ngIf
+        this.switch = true;
+        //*ngFor
+        this.items = [1, 2, 3, 4, 5, 6, 7, 8];
+        //ngSwith
+        this.value = 0;
     }
+    AppComponent.prototype.onSwitch = function () {
+        this.switch = !this.switch;
+    };
     AppComponent = __decorate([
         core_1.Component({
             selector: 'app-root',

@@ -11,6 +11,7 @@ var forms_1 = require('@angular/forms');
 var http_1 = require('@angular/http');
 var app_component_1 = require('./app.component');
 var highlight_directive_1 = require('./highlight.directive');
+var unless_directive_1 = require('./unless.directive');
 var AppModule = (function () {
     function AppModule() {
     }
@@ -18,7 +19,8 @@ var AppModule = (function () {
         core_1.NgModule({
             declarations: [
                 app_component_1.AppComponent,
-                highlight_directive_1.HighlightDirective
+                highlight_directive_1.HighlightDirective,
+                unless_directive_1.UnlessDirective
             ],
             imports: [
                 platform_browser_1.BrowserModule,
