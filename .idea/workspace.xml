@@ -7,9 +7,12 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/app.component.js" afterPath="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/app.component.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/app.component.js.map" afterPath="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/app.component.js.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/app.component.ts" afterPath="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/app.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/app.module.js" afterPath="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/app.module.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/app.module.js.map" afterPath="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/app.module.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/app.module.ts" afterPath="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/app.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/highlight.directive.js" afterPath="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/highlight.directive.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/highlight.directive.js.map" afterPath="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/highlight.directive.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/highlight.directive.ts" afterPath="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/highlight.directive.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/unless.directive.js" afterPath="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/unless.directive.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/unless.directive.js.map" afterPath="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/unless.directive.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/unless.directive.ts" afterPath="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/unless.directive.ts" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,28 +34,28 @@
       <file leaf-file-name="highlight.directive.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/highlight.directive.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-16">
-              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+            <state relative-caret-position="252">
+              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/app.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+            <state relative-caret-position="-130">
+              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="unless.directive.ts" pinned="false" current-in-tab="false">
+      <file leaf-file-name="unless.directive.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/unless.directive.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="55" selection-start-line="0" selection-start-column="55" selection-end-line="0" selection-end-column="55" />
+            <state relative-caret-position="294">
+              <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -61,8 +64,8 @@
       <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+            <state relative-caret-position="197">
+              <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -103,8 +106,8 @@
         <option value="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/app.component.css" />
         <option value="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/highlight.directive.ts" />
         <option value="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/app.component.ts" />
-        <option value="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/unless.directive.ts" />
         <option value="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/unless.directive.ts" />
       </list>
     </option>
   </component>
@@ -116,8 +119,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1040" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -163,7 +166,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -265,6 +267,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -353,12 +356,13 @@
       <workItem from="1489106563791" duration="7223000" />
       <workItem from="1489123881262" duration="656000" />
       <workItem from="1489190530967" duration="10147000" />
-      <workItem from="1489538505456" duration="7158000" />
+      <workItem from="1489538505456" duration="7229000" />
+      <workItem from="1489621465542" duration="9255000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32660000" />
+    <option name="totallyTimeSpent" value="41986000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -370,17 +374,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22339304" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24451098" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="TypeScript Compiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32394367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript Compiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32242227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24960423" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25893825" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08674304" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -668,7 +672,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -676,7 +679,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
           <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -684,7 +686,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="903">
           <caret line="43" column="6" selection-start-line="41" selection-start-column="2" selection-end-line="43" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -692,11 +693,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-          <folding>
-            <marker date="1489200775825" expanded="true" signature="196:220" placeholder="..." />
-            <marker date="1489200775825" expanded="true" signature="196:223" placeholder="..." />
-            <marker date="1489200775825" expanded="true" signature="231:283" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -708,34 +704,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/highlight.directive.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        <state relative-caret-position="197">
+          <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/unless.directive.ts">
+    <entry file="file://$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/highlight.directive.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="55" selection-start-line="0" selection-start-column="55" selection-end-line="0" selection-end-column="55" />
+        <state relative-caret-position="252">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        <state relative-caret-position="-130">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/unless.directive.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
           <folding />
         </state>
       </provider>
