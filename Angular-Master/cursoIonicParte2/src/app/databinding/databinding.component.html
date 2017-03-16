@@ -17,7 +17,11 @@
 <h1>Event Binding</h1>
 <app-event-binding></app-event-binding>
 
-<!--<app-event-binding (apachado)="onClicked($event)" ></app-event-binding>-->
+<<<<<<< HEAD
+<app-event-binding (apachado)="onClicked($event)" (articulosDescargados)=articulosDescargados($Event)></app-event-binding>
+=======
+<app-event-binding (descargados)="articulosDescardados($event)" ></app-event-binding>
+>>>>>>> 8fbf013ded860b7c7b7edc2b755265ce51c935f5
 <!--<hr>-->
 <h1>Two-Way Binding</h1>
 <input type="text" [(ngModel)]="persona.nombre">
@@ -34,9 +38,16 @@
     <!--<li *ngFor="let item of items">{{item}}</li>-->
   <!--</ul>-->
 <!--</div>-->
+<hr>
+<h1>Template Reference access</h1>
 
+<app-child-views>
 
+  <p #boundContent>
+    Estoy dentro de ng-content
+  </p>
 
+</app-child-views>
 
 
 

@@ -41,9 +41,23 @@ export class DatabindingComponent {
   };
 
 
-  // onClicked (event : string) {
-  //   alert(event);
-  // }
+<<<<<<< HEAD
+   onClicked (event : string) {
+     alert(event);
+   }
+  
+=======
+  onClicked (event : string) {
+    alert(event);
+  }
+
+  articulosDescardados(event : boolean){
+    if(event){
+      alert("ARticulos fueron descargados exitosamente");
+    } else
+      alert("ARticulos NO fueron descargados exitosamente");
+  }
+>>>>>>> 8fbf013ded860b7c7b7edc2b755265ce51c935f5
 
 }
 
