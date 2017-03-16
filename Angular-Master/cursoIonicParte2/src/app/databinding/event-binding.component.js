@@ -8,11 +8,24 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var core_1 = require('@angular/core');
 var EventBindingComponent = (function () {
     function EventBindingComponent() {
+        // onClicked(event){
+        //   alert("Funciono!")
+        //   console.log(event);
+        // }
+        //Custom Event
+        this.apachado = new core_1.EventEmitter();
+        this.articulosDescargados = new core_1.EventEmitter();
     }
-    EventBindingComponent.prototype.onClicked = function (event) {
-        alert("Funciono!");
-        console.log(event);
+    EventBindingComponent.prototype.onClicked = function () {
+        this.apachado.emit('It Works!');
+        this.articulosDescargados.emit(false);
     };
+    __decorate([
+        core_1.Output()
+    ], EventBindingComponent.prototype, "apachado");
+    __decorate([
+        core_1.Output("descargados")
+    ], EventBindingComponent.prototype, "articulosDescargados");
     EventBindingComponent = __decorate([
         core_1.Component({
             selector: 'app-event-binding',
