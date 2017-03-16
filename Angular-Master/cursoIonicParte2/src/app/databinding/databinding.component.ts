@@ -44,6 +44,16 @@ export class DatabindingComponent {
   onClicked (event : string) {
     alert(event);
   }
+<<<<<<< HEAD
+=======
+
+  articulosDescardados(event : boolean){
+    if(event){
+      alert("ARticulos fueron descargados exitosamente");
+    } else
+      alert("ARticulos NO fueron descargados exitosamente");
+  }
+>>>>>>> master
 
 }
 

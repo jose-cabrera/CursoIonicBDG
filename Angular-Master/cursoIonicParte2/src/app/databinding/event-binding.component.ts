@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import { Component, EventEmitter, Output } from "@angular/core";
+=======
+import { Component, EventEmitter, Output } from '@angular/core';
+>>>>>>> master
 
 @Component({
   selector: 'app-event-binding',
@@ -15,6 +19,7 @@ export class EventBindingComponent {
   // }
 
   //Custom Event
+<<<<<<< HEAD
 //  @Output() 
 //  apachado = new EventEmitter<string>();
 @Output()
@@ -24,5 +29,19 @@ apachado = new EventEmitter<string>();
     console.log("hola");
     this.apachado.emit('It Works!');
   }
+=======
+  @Output()
+  apachado = new EventEmitter<string>();
+
+  onClicked(){
+    this.apachado.emit('It Works!');
+    this.articulosDescargados.emit(false);
+  }
+
+  @Output("descargados")
+  articulosDescargados = new EventEmitter<boolean>();
+
+
+>>>>>>> master
 
 }
