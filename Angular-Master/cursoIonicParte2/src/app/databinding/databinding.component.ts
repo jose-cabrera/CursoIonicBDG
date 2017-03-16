@@ -40,6 +40,10 @@ export class DatabindingComponent {
     fecha : ""
   };
 
+  onClick (event:string){
+    alert(event);
+  }
+
 
   // onClicked (event : string) {
   //   alert(event);

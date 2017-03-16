@@ -9,13 +9,15 @@ import { Component, EventEmitter } from '@angular/core';
 })
 export class EventBindingComponent {
 
-  onClicked(event){
-    alert("Funciono!")
-    console.log(event);
-  }
+//  onClicked(event){
+  //  alert("Funciono!")
+   // console.log(event);
+  //}
+
+
 
   //Custom Event
-  // @OutPut() apachado = new EventEmitter<string>();
+   @OutPut() apachado = new EventEmitter<string>();
 
   // onClicked(){
   //   this.apachado.emit('It Works!');
