@@ -15,10 +15,15 @@ export class EventBindingComponent {
   // }
 
   //Custom Event
-  @Output() apachado = new EventEmitter<string>();
+  @Output()
+  apachado = new EventEmitter<string>();
 
   onClicked(){
     this.apachado.emit('It Works!');
+    this.articulosDescargados.emit(false);
   }
+
+  @Output("descargados")
+  articulosDescargados = new EventEmitter<boolean>();
 
 }

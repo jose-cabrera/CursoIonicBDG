@@ -45,6 +45,13 @@ export class DatabindingComponent {
     alert(event);
   }
 
+  articulosDescardados(event : boolean){
+    if(event){
+      alert("ARticulos fueron descargados exitosamente");
+    } else
+      alert("ARticulos NO fueron descargados exitosamente");
+  }
+
 }
 
 
