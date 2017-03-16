@@ -1,0 +1,14 @@
+selectores
+clase
+id
+
+componentes
+
+direcciones relativas en desktop y mobile
+
+ver el moodle
+
+String Interpolation
+Property Binding
+Event Binding
+Two'Way Bindind
