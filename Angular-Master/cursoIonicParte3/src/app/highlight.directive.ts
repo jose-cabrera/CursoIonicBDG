@@ -29,21 +29,21 @@ export class HighlightDirective implements OnInit {
   }
 
   @Input()
-  defaultColor:string = "white";
+  defaultColor: string = "white";
 
   @Input("highlight")
-  highlightColor:string = "green";
+  highlightColor: string = "green";
 
-  // private backgroundColor = this.defaultColor;
-  private backgroundColor:string;
+  private backgroundColor = this.defaultColor;
+  //private backgroundColor: string;
 
-// constructor(private elementRef : ElementRef, private renderer : Renderer) {
-  constructor() {
+  constructor(private elementRef: ElementRef, private renderer: Renderer) {
+    //constructor() {
 
     // Changing attributes, the bad way
     // this.elementRef.nativeElement.style.backgroundColor = "green";
     // Changing attibutes, the correct way
-    // this.renderer.setElementStyle(this.elementRef.nativeElement, 'background-color', 'green');
+    this.renderer.setElementStyle(this.elementRef.nativeElement, 'background-color', 'green');
 
   }
 
