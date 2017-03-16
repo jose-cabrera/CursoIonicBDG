@@ -20,6 +20,6 @@ export class AppComponent {
   private items = [1,2,3,4,5,6,7,8];
 
   //ngSwith
-  value : number = 0;
+  value : number = 10;
 
 }
