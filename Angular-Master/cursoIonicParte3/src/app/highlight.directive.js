@@ -8,6 +8,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var core_1 = require('@angular/core');
 var HighlightDirective = (function () {
 <<<<<<< HEAD
+<<<<<<< HEAD
     // constructor(private elementRef : ElementRef, private renderer : Renderer) {
     function HighlightDirective() {
         // Changing attributes, the bad way
@@ -19,6 +20,8 @@ var HighlightDirective = (function () {
     }
     //TODO: Listening to Events
 =======
+=======
+>>>>>>> 5cc9600adcb37367ca23ad62d6a4f95c1a749bd9
     function HighlightDirective() {
         //
         this.defaultColor = "white";
@@ -28,12 +31,19 @@ var HighlightDirective = (function () {
         this.backgroundColor = this.defaultColor;
     }
     // //TODO: Listening to Events
+<<<<<<< HEAD
+>>>>>>> 5cc9600adcb37367ca23ad62d6a4f95c1a749bd9
+=======
 >>>>>>> 5cc9600adcb37367ca23ad62d6a4f95c1a749bd9
     HighlightDirective.prototype.mouseover = function () {
         // this.backgroundColor = "green";
         this.backgroundColor = this.highlightColor;
     };
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    //
+>>>>>>> 5cc9600adcb37367ca23ad62d6a4f95c1a749bd9
 =======
     //
 >>>>>>> 5cc9600adcb37367ca23ad62d6a4f95c1a749bd9
@@ -42,12 +52,18 @@ var HighlightDirective = (function () {
         this.backgroundColor = this.defaultColor;
     };
 <<<<<<< HEAD
+<<<<<<< HEAD
     HighlightDirective.prototype.onClick = function (event) {
         console.log("Event Target" + event.target);
     };
     Object.defineProperty(HighlightDirective.prototype, "setColor", {
         get: function () {
             return this.backgroundColor;
+=======
+    Object.defineProperty(HighlightDirective.prototype, "setColor", {
+        get: function () {
+            return 'myClass';
+>>>>>>> 5cc9600adcb37367ca23ad62d6a4f95c1a749bd9
 =======
     Object.defineProperty(HighlightDirective.prototype, "setColor", {
         get: function () {
@@ -62,6 +78,7 @@ var HighlightDirective = (function () {
     };
     __decorate([
         core_1.HostListener('mouseenter')
+<<<<<<< HEAD
 <<<<<<< HEAD
     ], HighlightDirective.prototype, "mouseover", null);
     __decorate([
@@ -80,6 +97,8 @@ var HighlightDirective = (function () {
         core_1.Input("highlight")
     ], HighlightDirective.prototype, "highlightColor", void 0);
 =======
+=======
+>>>>>>> 5cc9600adcb37367ca23ad62d6a4f95c1a749bd9
     ], HighlightDirective.prototype, "mouseover");
     __decorate([
         core_1.HostListener('mouseleave')
@@ -93,6 +112,9 @@ var HighlightDirective = (function () {
     __decorate([
         core_1.Input('highlight')
     ], HighlightDirective.prototype, "highlightColor");
+<<<<<<< HEAD
+>>>>>>> 5cc9600adcb37367ca23ad62d6a4f95c1a749bd9
+=======
 >>>>>>> 5cc9600adcb37367ca23ad62d6a4f95c1a749bd9
     HighlightDirective = __decorate([
         core_1.Directive({
@@ -103,6 +125,10 @@ var HighlightDirective = (function () {
 }());
 exports.HighlightDirective = HighlightDirective;
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+//# sourceMappingURL=highlight.directive.js.map
+>>>>>>> 5cc9600adcb37367ca23ad62d6a4f95c1a749bd9
 =======
 //# sourceMappingURL=highlight.directive.js.map
 >>>>>>> 5cc9600adcb37367ca23ad62d6a4f95c1a749bd9
