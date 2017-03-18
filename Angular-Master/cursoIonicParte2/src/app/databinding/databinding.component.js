@@ -27,6 +27,16 @@ var DatabindingComponent = (function () {
     DatabindingComponent.prototype.getMyObjectClass = function () {
         return { 'miclase': false };
     };
+    DatabindingComponent.prototype.onClicked = function (event) {
+        alert(event);
+    };
+    DatabindingComponent.prototype.articulosDescardados = function (event) {
+        if (event) {
+            alert("ARticulos fueron descargados exitosamente");
+        }
+        else
+            alert("ARticulos NO fueron descargados exitosamente");
+    };
     DatabindingComponent = __decorate([
         core_1.Component({
             selector: 'app-databinding',

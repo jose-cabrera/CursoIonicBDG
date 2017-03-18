@@ -10,13 +10,22 @@ var ChildViewsComponent = (function () {
     function ChildViewsComponent() {
         this.bindable = "Im a bindable text";
     }
+    ChildViewsComponent.prototype.ngAfterContentInit = function () {
+        console.log("BoundParagraph");
+        console.log(this.boundParagraph);
+        console.log("BoundContent");
+        console.log(this.boundContent);
+    };
     __decorate([
         core_1.ViewChild('boundParagraph')
     ], ChildViewsComponent.prototype, "boundParagraph");
+    __decorate([
+        core_1.ContentChild('boundContent')
+    ], ChildViewsComponent.prototype, "boundContent");
     ChildViewsComponent = __decorate([
         core_1.Component({
             selector: 'app-child-views',
-            template: "\n    <ng-content></ng-content>\n    <p #boundParagraph>\n      {{bindable}}\n    </p>\n    <p>\n        {{boundParagraph.textContent}}    \n    </p>\n  ",
+            template: "\n    <ng-content></ng-content>\n    <p #boundParagraph>\n    {{bindable}}\n     </p>\n    <p>\n        {{boundParagraph.textContent}}    \n    </p>\n  ",
             styles: []
         })
     ], ChildViewsComponent);
