@@ -5,19 +5,28 @@ import {Directive, ElementRef, Renderer, HostListener, HostBinding, Input, OnIni
 })
 export class HighlightDirective implements OnInit {
 
+<<<<<<< HEAD
   //TODO: Listening to Events
+=======
+  // //TODO: Listening to Events
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
   @HostListener('mouseenter')
   mouseover() {
     // this.backgroundColor = "green";
     this.backgroundColor = this.highlightColor;
   }
 
+<<<<<<< HEAD
+=======
+  //
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
   @HostListener('mouseleave')
   mouseleave() {
     // this.backgroundColor = "white";
     this.backgroundColor = this.defaultColor;
   }
 
+<<<<<<< HEAD
   @HostListener('click', ['$event'])
   onClick(event) {
     console.log("Event Target" + event.target);
@@ -45,6 +54,22 @@ export class HighlightDirective implements OnInit {
     // Changing attibutes, the correct way
     // this.renderer.setElementStyle(this.elementRef.nativeElement, 'background-color', 'green');
 
+=======
+  @HostBinding('class') get setColor() {
+    return 'myClass';
+  }
+
+  //
+  @Input('defaultColor')
+  defaultColor:string = "white";
+  //
+  @Input('highlight')
+  highlightColor:string = "green";
+  //
+  private backgroundColor = this.defaultColor;
+
+  constructor() {
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
   }
 
   ngOnInit() {

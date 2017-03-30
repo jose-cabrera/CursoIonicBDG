@@ -14,16 +14,32 @@ var UnlessDirective = (function () {
     }
     Object.defineProperty(UnlessDirective.prototype, "unless", {
         set: function (condition) {
+<<<<<<< HEAD
             if (!condition) {
                 this.vcRef.createEmbeddedView(this.templateRef);
             }
             else {
                 this.vcRef.clear();
             }
+=======
+            this.bandera = condition;
+            this.cambiar();
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
         },
         enumerable: true,
         configurable: true
     });
+<<<<<<< HEAD
+=======
+    UnlessDirective.prototype.cambiar = function () {
+        if (!this.bandera) {
+            this.vcRef.createEmbeddedView(this.templateRef);
+        }
+        else {
+            this.vcRef.clear();
+        }
+    };
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
     __decorate([
         core_1.Input()
     ], UnlessDirective.prototype, "unless");

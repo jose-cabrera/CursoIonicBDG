@@ -1,6 +1,10 @@
 .myClass{
 
+<<<<<<< HEAD
   background-color: blue;
+=======
+  background-color: black;
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
   color:white;
 
 }

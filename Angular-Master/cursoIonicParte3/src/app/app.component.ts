@@ -8,6 +8,25 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'app works!';
 
+<<<<<<< HEAD
+=======
+  variable = true;
+
+  getClass(){
+    return {
+      'myClass' : this.variable
+    }
+  }
+
+  color:string = "black";
+
+  getStyle(){
+    return  {
+      'background-color' : this.color
+    }
+  }
+
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
   //*ngIf
   private switch : boolean = true;
 

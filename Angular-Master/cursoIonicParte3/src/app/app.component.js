@@ -9,13 +9,33 @@ var core_1 = require('@angular/core');
 var AppComponent = (function () {
     function AppComponent() {
         this.title = 'app works!';
+<<<<<<< HEAD
+=======
+        this.variable = true;
+        this.color = "black";
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
         //*ngIf
         this.switch = true;
         //*ngFor
         this.items = [1, 2, 3, 4, 5, 6, 7, 8];
         //ngSwith
+<<<<<<< HEAD
         this.value = 0;
     }
+=======
+        this.value = 20;
+    }
+    AppComponent.prototype.getClass = function () {
+        return {
+            'myClass': this.variable
+        };
+    };
+    AppComponent.prototype.getStyle = function () {
+        return {
+            'background-color': this.color
+        };
+    };
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
     AppComponent.prototype.onSwitch = function () {
         this.switch = !this.switch;
     };
