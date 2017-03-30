@@ -5,14 +5,20 @@ import {Directive, TemplateRef, ViewContainerRef, Input} from '@angular/core';
 })
 export class UnlessDirective {
 
+  private bandera:boolean;
+
   @Input() set unless(condition:boolean) {
-    if(!condition){
+    this.bandera = condition;
+    this.cambiar();
+  }
+
+  cambiar(){
+    if(!this.bandera){
       this.vcRef.createEmbeddedView(this.templateRef);
     } else {
       this.vcRef.clear();
     }
   }
-
   //what and where
   //que es lo que vamos a cambiar private templateRef:TemplateRef<any>
   //en donde lo vamos a cambier private vcRef:ViewContainerRef
