@@ -9,7 +9,10 @@ export class AppComponent {
   title = 'app works!';
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
   variable = true;
 
   getClass(){
@@ -26,6 +29,9 @@ export class AppComponent {
     }
   }
 
+<<<<<<< HEAD
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
+=======
 >>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
   //*ngIf
   private switch : boolean = true;

@@ -6,7 +6,11 @@ import {Directive, ElementRef, Renderer, HostListener, HostBinding, Input, OnIni
 export class HighlightDirective implements OnInit {
 
 <<<<<<< HEAD
+<<<<<<< HEAD
   //TODO: Listening to Events
+=======
+  // //TODO: Listening to Events
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
 =======
   // //TODO: Listening to Events
 >>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
@@ -17,6 +21,10 @@ export class HighlightDirective implements OnInit {
   }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  //
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
 =======
   //
 >>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
@@ -26,6 +34,7 @@ export class HighlightDirective implements OnInit {
     this.backgroundColor = this.defaultColor;
   }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
   @HostListener('click', ['$event'])
   onClick(event) {
@@ -55,6 +64,8 @@ export class HighlightDirective implements OnInit {
     // this.renderer.setElementStyle(this.elementRef.nativeElement, 'background-color', 'green');
 
 =======
+=======
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
   @HostBinding('class') get setColor() {
     return 'myClass';
   }
@@ -69,6 +80,9 @@ export class HighlightDirective implements OnInit {
   private backgroundColor = this.defaultColor;
 
   constructor() {
+<<<<<<< HEAD
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
+=======
 >>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
   }
 

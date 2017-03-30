@@ -10,6 +10,11 @@ var AppComponent = (function () {
     function AppComponent() {
         this.title = 'app works!';
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+        this.variable = true;
+        this.color = "black";
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
 =======
         this.variable = true;
         this.color = "black";
@@ -20,9 +25,12 @@ var AppComponent = (function () {
         this.items = [1, 2, 3, 4, 5, 6, 7, 8];
         //ngSwith
 <<<<<<< HEAD
+<<<<<<< HEAD
         this.value = 0;
     }
 =======
+=======
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
         this.value = 20;
     }
     AppComponent.prototype.getClass = function () {
@@ -35,6 +43,9 @@ var AppComponent = (function () {
             'background-color': this.color
         };
     };
+<<<<<<< HEAD
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
+=======
 >>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
     AppComponent.prototype.onSwitch = function () {
         this.switch = !this.switch;

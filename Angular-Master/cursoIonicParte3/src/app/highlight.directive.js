@@ -8,8 +8,12 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var core_1 = require('@angular/core');
 var HighlightDirective = (function () {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
+=======
 <<<<<<< HEAD
 >>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
     // constructor(private elementRef : ElementRef, private renderer : Renderer) {
@@ -23,7 +27,10 @@ var HighlightDirective = (function () {
     }
     //TODO: Listening to Events
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
 =======
 =======
 >>>>>>> 5cc9600adcb37367ca23ad62d6a4f95c1a749bd9
@@ -40,14 +47,20 @@ var HighlightDirective = (function () {
 >>>>>>> 5cc9600adcb37367ca23ad62d6a4f95c1a749bd9
 =======
 >>>>>>> 5cc9600adcb37367ca23ad62d6a4f95c1a749bd9
+<<<<<<< HEAD
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
+=======
 >>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
     HighlightDirective.prototype.mouseover = function () {
         // this.backgroundColor = "green";
         this.backgroundColor = this.highlightColor;
     };
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
 <<<<<<< HEAD
 =======
     //
@@ -55,14 +68,21 @@ var HighlightDirective = (function () {
 =======
     //
 >>>>>>> 5cc9600adcb37367ca23ad62d6a4f95c1a749bd9
+<<<<<<< HEAD
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
+=======
 >>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
     HighlightDirective.prototype.mouseleave = function () {
         // this.backgroundColor = "white";
         this.backgroundColor = this.defaultColor;
     };
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
+=======
 <<<<<<< HEAD
 >>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
     HighlightDirective.prototype.onClick = function (event) {
@@ -72,17 +92,23 @@ var HighlightDirective = (function () {
         get: function () {
             return this.backgroundColor;
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
-    Object.defineProperty(HighlightDirective.prototype, "setColor", {
-        get: function () {
-            return 'myClass';
->>>>>>> 5cc9600adcb37367ca23ad62d6a4f95c1a749bd9
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
 =======
     Object.defineProperty(HighlightDirective.prototype, "setColor", {
         get: function () {
             return 'myClass';
 >>>>>>> 5cc9600adcb37367ca23ad62d6a4f95c1a749bd9
+=======
+    Object.defineProperty(HighlightDirective.prototype, "setColor", {
+        get: function () {
+            return 'myClass';
+>>>>>>> 5cc9600adcb37367ca23ad62d6a4f95c1a749bd9
+<<<<<<< HEAD
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
+=======
 >>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
         },
         enumerable: true,
@@ -93,6 +119,7 @@ var HighlightDirective = (function () {
     };
     __decorate([
         core_1.HostListener('mouseenter')
+<<<<<<< HEAD
 <<<<<<< HEAD
     ], HighlightDirective.prototype, "mouseover");
     __decorate([
@@ -112,6 +139,8 @@ var HighlightDirective = (function () {
     ], HighlightDirective.prototype, "highlightColor");
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
 <<<<<<< HEAD
     ], HighlightDirective.prototype, "mouseover", null);
     __decorate([
@@ -149,6 +178,9 @@ var HighlightDirective = (function () {
 >>>>>>> 5cc9600adcb37367ca23ad62d6a4f95c1a749bd9
 =======
 >>>>>>> 5cc9600adcb37367ca23ad62d6a4f95c1a749bd9
+<<<<<<< HEAD
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
+=======
 >>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
     HighlightDirective = __decorate([
         core_1.Directive({
@@ -159,9 +191,12 @@ var HighlightDirective = (function () {
 }());
 exports.HighlightDirective = HighlightDirective;
 <<<<<<< HEAD
+<<<<<<< HEAD
 //# sourceMappingURL=highlight.directive.js.map
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
 <<<<<<< HEAD
 =======
 //# sourceMappingURL=highlight.directive.js.map
@@ -169,4 +204,7 @@ exports.HighlightDirective = HighlightDirective;
 =======
 //# sourceMappingURL=highlight.directive.js.map
 >>>>>>> 5cc9600adcb37367ca23ad62d6a4f95c1a749bd9
+<<<<<<< HEAD
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
+=======
 >>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee

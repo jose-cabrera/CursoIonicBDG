@@ -15,6 +15,7 @@ var UnlessDirective = (function () {
     Object.defineProperty(UnlessDirective.prototype, "unless", {
         set: function (condition) {
 <<<<<<< HEAD
+<<<<<<< HEAD
             if (!condition) {
                 this.vcRef.createEmbeddedView(this.templateRef);
             }
@@ -25,12 +26,19 @@ var UnlessDirective = (function () {
             this.bandera = condition;
             this.cambiar();
 >>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
+=======
+            this.bandera = condition;
+            this.cambiar();
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
         },
         enumerable: true,
         configurable: true
     });
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
     UnlessDirective.prototype.cambiar = function () {
         if (!this.bandera) {
             this.vcRef.createEmbeddedView(this.templateRef);
@@ -39,6 +47,9 @@ var UnlessDirective = (function () {
             this.vcRef.clear();
         }
     };
+<<<<<<< HEAD
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
+=======
 >>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
     __decorate([
         core_1.Input()
