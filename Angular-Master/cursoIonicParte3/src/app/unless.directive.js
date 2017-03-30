@@ -14,16 +14,20 @@ var UnlessDirective = (function () {
     }
     Object.defineProperty(UnlessDirective.prototype, "unless", {
         set: function (condition) {
-            if (!condition) {
-                this.vcRef.createEmbeddedView(this.templateRef);
-            }
-            else {
-                this.vcRef.clear();
-            }
+            this.bandera = condition;
+            this.cambiar();
         },
         enumerable: true,
         configurable: true
     });
+    UnlessDirective.prototype.cambiar = function () {
+        if (!this.bandera) {
+            this.vcRef.createEmbeddedView(this.templateRef);
+        }
+        else {
+            this.vcRef.clear();
+        }
+    };
     __decorate([
         core_1.Input()
     ], UnlessDirective.prototype, "unless");
