@@ -3,16 +3,27 @@
 </h1>
 <p [ngClass]="{ myClass : true }">Im a paragraph! </p>
 
+<<<<<<< HEAD
 <p [ngStyle]="{ 'background-color' : 'red', 'color' : 'white' }">Im a paragraph! </p>
 <hr>
 <h1 [highlight]>Custom Attributes Directive</h1>
 <p [highlight]>im a Highlighted Text!</p>
 
 <p [highlight]="black" [defaultColor]="'red'">im a Highlighted Text!</p>
+=======
+<p [ngStyle]="getStyle()">Im a paragraph! </p>
+
+<hr>
+<h1>Custom Attributes Directive</h1>
+<p [highlight]="'black'" [defaultColor]="'red'">HELLO</p>
+
+<!--<p [highlight]="black" [defaultColor]="'red'">im a Highlighted Text!</p>-->
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
 <hr>
 <h1>Structural Directives</h1>
 <h2>*ngIf</h2>
 <div *ngIf="switch">Conditional Text!</div>
+<<<<<<< HEAD
 &lt;!&ndash; Not Beauty &ndash;&gt;
 <template [ngIf]="switch">
   <div *ngIf="switch">Conditional Text!</div>
@@ -31,6 +42,26 @@
   <p *ngSwitchCase="100">Cien</p>
   <p *ngSwitchDefault>Default</p>
 </div>
+=======
+<!-- Not Beauty -->
+<!--<template [ngIf]="switch">-->
+  <!--<div>Conditional Text!</div>-->
+<!--</template>-->
+<!--<br>-->
+<button (click)="onSwitch()">Switch!</button>
+<!--<hr>-->
+<!--<h2>*ngFor</h2>-->
+
+  <!--<p *ngFor="let item of items ; let indice = index">{{item}} - (Index : {{indice}})</p>-->
+
+<!--<hr>-->
+<!--<h2>ngSwitch</h2>-->
+<!--<div [ngSwitch]="value">-->
+  <!--<p *ngSwitchCase="10">Diez</p>-->
+  <!--<p *ngSwitchCase="100">Cien</p>-->
+  <!--<p *ngSwitchDefault>Default</p>-->
+<!--</div>-->
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
 
 &lt;!&ndash; Not Beauty &ndash;&gt;
 <p [ngSwitch]="value">
@@ -43,4 +74,11 @@
 <h2>Custom Structural Directive</h2>
 <h3>Unless Directive</h3>
 <div *unless="switch">Conditional Text!</div>
+<<<<<<< HEAD
+=======
+
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+>>>>>>> 098d653e62b3d46af10233d949f8b23353dd15ee
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
