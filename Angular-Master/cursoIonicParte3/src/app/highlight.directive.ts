@@ -35,13 +35,14 @@ export class HighlightDirective implements OnInit {
   highlightColor:string = "green";
 
   // private backgroundColor = this.defaultColor;
-  private backgroundColor:string;
+  private backgroundColor:string = "white";
 
 // constructor(private elementRef : ElementRef, private renderer : Renderer) {
-  constructor() {
+  //private elementRef:ElementRef agarra el elemento donde se hizo referencia
+  constructor(private elementRef:ElementRef) {
 
     // Changing attributes, the bad way
-    // this.elementRef.nativeElement.style.backgroundColor = "green";
+    this.elementRef.nativeElement.style.backgroundColor = "green";
     // Changing attibutes, the correct way
     // this.renderer.setElementStyle(this.elementRef.nativeElement, 'background-color', 'green');
 
