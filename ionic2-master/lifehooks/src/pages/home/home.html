@@ -9,4 +9,9 @@
 <ion-content padding>
   <!--<button ion-button [navPush]="usrPage">Users</button>-->
   <button ion-button (click)="onGoToUsers()">Users</button>
+
+  <input type="text" [(ngModel)="model"]>
+
+  <p>{{model}}</p>
+
 </ion-content>
