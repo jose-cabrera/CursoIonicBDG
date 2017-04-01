@@ -10,6 +10,7 @@ var users_1 = require("../users/users");
 var HomePage = (function () {
     function HomePage(navCtrl) {
         this.navCtrl = navCtrl;
+        this.userPage = users_1.UsersPage;
     }
     HomePage.prototype.onGoToUsers = function () {
         this.navCtrl.push(users_1.UsersPage);
