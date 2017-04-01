@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, OnChanges, OnInit, DoCheck, AfterContentInit, AfterContentCheck, AfterViewInit} from '@angular/core';
 
 import { UsersPage } from "../users/users";
 import { NavController } from "ionic-angular";
@@ -7,7 +7,7 @@ import { NavController } from "ionic-angular";
   selector: 'page-home',
   templateUrl: 'home.html'
 })
-export class HomePage {
+export class HomePage  implements onChanges{
   usrPage = UsersPage;
 
   constructor (private navCtrl: NavController) {}
@@ -15,5 +15,10 @@ export class HomePage {
   onGoToUsers() {
     this.navCtrl.push(this.usrPage)
       .catch((error) => console.log('Access denied, Argument was ' + error));
+  }
+
+
+  ngOnChanges(){
+    console.log("")
   }
 }
