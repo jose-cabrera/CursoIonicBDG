@@ -36,6 +36,8 @@ export class HomePage implements
       .catch((error) => console.log('Access denied, Argument was ' + error));
   }
 
+  model:string="";
+
   ngOnChanges() {
     console.log("OnChanges");
   }
