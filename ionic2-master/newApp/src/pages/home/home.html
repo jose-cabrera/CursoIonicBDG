@@ -7,10 +7,18 @@
 </ion-header>
 
 <ion-content padding>
+<<<<<<< HEAD
   <button ion-button (click)="onGoToUsers()">Users</button>
 
 
     <button ion-button (click)="onGoToDanny()">Danny</button>
 
 
+=======
+  <button ion-button [navPush]="userPage" [navParams]="{miUsuario: {nombre:'jose'}}">Users</button>
+>>>>>>> 053fd63088c20df294040b46d539f4a968aae1da
 </ion-content>
+
+<ion-footer padding>
+  <p>el footer</p>
+</ion-footer>

@@ -8,6 +8,10 @@ import { TabsPage } from '../pages/tabs/tabs';
 
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
+<<<<<<< HEAD
+=======
+import {Web} from "../providers/web";
+>>>>>>> 053fd63088c20df294040b46d539f4a968aae1da
 
 @NgModule({
   declarations: [
@@ -29,6 +33,10 @@ import { SplashScreen } from '@ionic-native/splash-screen';
     TabsPage
   ],
   providers: [
+<<<<<<< HEAD
+=======
+    Web,
+>>>>>>> 053fd63088c20df294040b46d539f4a968aae1da
     StatusBar,
     SplashScreen,
     {provide: ErrorHandler, useClass: IonicErrorHandler}

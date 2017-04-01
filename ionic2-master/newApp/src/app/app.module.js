@@ -12,6 +12,7 @@ var home_1 = require('../pages/home/home');
 var status_bar_1 = require('@ionic-native/status-bar');
 var splash_screen_1 = require('@ionic-native/splash-screen');
 var users_1 = require("../pages/users/users");
+var user_1 = require("../pages/users/user/user");
 var AppModule = (function () {
     function AppModule() {
     }
@@ -20,7 +21,8 @@ var AppModule = (function () {
             declarations: [
                 app_component_1.MyApp,
                 home_1.HomePage,
-                users_1.UsersPage
+                users_1.UsersPage,
+                user_1.UserPage
             ],
             imports: [
                 ionic_angular_1.IonicModule.forRoot(app_component_1.MyApp)
@@ -29,7 +31,8 @@ var AppModule = (function () {
             entryComponents: [
                 app_component_1.MyApp,
                 home_1.HomePage,
-                users_1.UsersPage
+                users_1.UsersPage,
+                user_1.UserPage
             ],
             providers: [
                 status_bar_1.StatusBar,

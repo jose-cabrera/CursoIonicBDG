@@ -6,7 +6,11 @@ import { HomePage } from '../pages/home/home';
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 import {UsersPage} from "../pages/users/users";
+<<<<<<< HEAD
 import {UserPage} from "../pages/user/user";
+=======
+import {UserPage} from "../pages/users/user/user";
+>>>>>>> 053fd63088c20df294040b46d539f4a968aae1da
 
 @NgModule({
   declarations: [
@@ -22,7 +26,8 @@ import {UserPage} from "../pages/user/user";
   entryComponents: [
     MyApp,
     HomePage,
-    UsersPage
+    UsersPage,
+    UserPage
   ],
   providers: [
     StatusBar,

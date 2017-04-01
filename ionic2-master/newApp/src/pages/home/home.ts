@@ -10,6 +10,8 @@ import {UserPage} from "../user/user";
 })
 export class HomePage {
 
+  userPage = UsersPage;
+
   constructor(public navCtrl: NavController) {
 
   }
@@ -17,8 +19,11 @@ export class HomePage {
   onGoToUsers(){
     this.navCtrl.push(UsersPage);
   }
+<<<<<<< HEAD
   onGoToDanny(){
     this.navCtrl.push(UserPage);
   }
+=======
+>>>>>>> 053fd63088c20df294040b46d539f4a968aae1da
 
 }
