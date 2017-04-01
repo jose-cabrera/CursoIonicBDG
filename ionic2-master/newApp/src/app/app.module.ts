@@ -5,13 +5,15 @@ import { HomePage } from '../pages/home/home';
 
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
-import {UsersPage} from "../pages/users/users";
+import { UsersPage } from "../pages/users/users";
+import { PruebaPage } from "../pages/prueba/prueba";
 
 @NgModule({
   declarations: [
     MyApp,
     HomePage,
-    UsersPage
+    UsersPage,
+    PruebaPage
   ],
   imports: [
     IonicModule.forRoot(MyApp)
@@ -20,7 +22,8 @@ import {UsersPage} from "../pages/users/users";
   entryComponents: [
     MyApp,
     HomePage,
-    UsersPage
+    UsersPage,
+    PruebaPage
   ],
   providers: [
     StatusBar,
