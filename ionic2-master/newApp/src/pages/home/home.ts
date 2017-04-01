@@ -9,12 +9,14 @@ import {UsersPage} from "../users/users";
 })
 export class HomePage {
 
+  userPage = UsersPage;
+
   constructor(public navCtrl: NavController) {
-    
+
   }
 
   onGoToUsers(){
     this.navCtrl.push(UsersPage);
   }
-  
+
 }
