@@ -8,12 +8,15 @@ import { SplashScreen } from '@ionic-native/splash-screen';
 import { UsersPage } from "../pages/users/users";
 import { PruebaPage } from "../pages/prueba/prueba";
 
+
 @NgModule({
   declarations: [
     MyApp,
     HomePage,
     UsersPage,
+
     PruebaPage
+
   ],
   imports: [
     IonicModule.forRoot(MyApp)
@@ -23,7 +26,9 @@ import { PruebaPage } from "../pages/prueba/prueba";
     MyApp,
     HomePage,
     UsersPage,
+
     PruebaPage
+
   ],
   providers: [
     StatusBar,
