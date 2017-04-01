@@ -2,9 +2,5 @@
 <project version="4">
   <component name="TypeScriptCompiler">
     <option name="isCompilerEnabled" value="true" />
-<<<<<<< HEAD
-    <option name="useConfig" value="true" />
-=======
->>>>>>> master
   </component>
 </project>

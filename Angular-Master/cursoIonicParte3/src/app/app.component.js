@@ -9,13 +9,25 @@ var core_1 = require('@angular/core');
 var AppComponent = (function () {
     function AppComponent() {
         this.title = 'app works!';
+        this.variable = true;
+        this.color = "black";
         //*ngIf
         this.switch = true;
         //*ngFor
         this.items = [1, 2, 3, 4, 5, 6, 7, 8];
         //ngSwith
-        this.value = 0;
+        this.value = 20;
     }
+    AppComponent.prototype.getClass = function () {
+        return {
+            'myClass': this.variable
+        };
+    };
+    AppComponent.prototype.getStyle = function () {
+        return {
+            'background-color': this.color
+        };
+    };
     AppComponent.prototype.onSwitch = function () {
         this.switch = !this.switch;
     };
