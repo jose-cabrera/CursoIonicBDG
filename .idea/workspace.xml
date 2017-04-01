@@ -13,6 +13,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/app.component.html" afterPath="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/app.component.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/app.component.js" afterPath="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/app.component.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/app.component.js.map" afterPath="$PROJECT_DIR$/Angular-Master/cursoIonicParte3/src/app/app.component.js.map" />
@@ -50,6 +51,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ionic2-master/newApp/src/pages/users/users.ts" afterPath="$PROJECT_DIR$/ionic2-master/newApp/src/pages/users/users.ts" />
 >>>>>>> 053fd63088c20df294040b46d539f4a968aae1da
 =======
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ionic2-master/lifehooks/src/pages/home/home.html" afterPath="$PROJECT_DIR$/ionic2-master/lifehooks/src/pages/home/home.html" />
+>>>>>>> 96ed879290d568adfbbae331de0da344384d745e
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ionic2-master/lifehooks/src/pages/home/home.ts" afterPath="$PROJECT_DIR$/ionic2-master/lifehooks/src/pages/home/home.ts" />
 >>>>>>> fc693eaaf91755f6f5910b527d1bc7a545a32c0c
     </list>
@@ -90,6 +94,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="-16">
               <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
 =======
@@ -106,6 +111,9 @@
 >>>>>>> 053fd63088c20df294040b46d539f4a968aae1da
 =======
             <state relative-caret-position="189">
+=======
+            <state relative-caret-position="5">
+>>>>>>> 96ed879290d568adfbbae331de0da344384d745e
               <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="12" />
 >>>>>>> fc693eaaf91755f6f5910b527d1bc7a545a32c0c
               <folding />
@@ -306,15 +314,28 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="web.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ionic2-master/tabApp/src/providers/web.ts">
 =======
+=======
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ionic2-master/lifehooks/src/pages/home/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+>>>>>>> 96ed879290d568adfbbae331de0da344384d745e
       <file leaf-file-name="home.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ionic2-master/lifehooks/src/pages/home/home.ts">
 >>>>>>> fc693eaaf91755f6f5910b527d1bc7a545a32c0c
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="63" column="36" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
+            <state relative-caret-position="224">
+              <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
               <folding>
                 <element signature="e#0#171#0" expanded="true" />
               </folding>
@@ -439,8 +460,12 @@
         <option value="$PROJECT_DIR$/ionic2-master/tabApp/src/providers/web.ts" />
         <option value="$PROJECT_DIR$/ionic2-master/tabApp/src/pages/home/home.ts" />
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 053fd63088c20df294040b46d539f4a968aae1da
 =======
+=======
+        <option value="$PROJECT_DIR$/ionic2-master/lifehooks/src/pages/home/home.html" />
+>>>>>>> 96ed879290d568adfbbae331de0da344384d745e
         <option value="$PROJECT_DIR$/ionic2-master/lifehooks/src/pages/home/home.ts" />
 >>>>>>> fc693eaaf91755f6f5910b527d1bc7a545a32c0c
       </list>
@@ -1059,14 +1084,19 @@
       <workItem from="1490749701007" duration="5382000" />
       <workItem from="1490831980143" duration="8053000" />
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 053fd63088c20df294040b46d539f4a968aae1da
 =======
       <workItem from="1491005973776" duration="1602000" />
 >>>>>>> fc693eaaf91755f6f5910b527d1bc7a545a32c0c
+=======
+      <workItem from="1491005973776" duration="1735000" />
+>>>>>>> 96ed879290d568adfbbae331de0da344384d745e
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1129,6 +1159,9 @@
 =======
     <option name="totallyTimeSpent" value="63884000" />
 >>>>>>> fc693eaaf91755f6f5910b527d1bc7a545a32c0c
+=======
+    <option name="totallyTimeSpent" value="64017000" />
+>>>>>>> 96ed879290d568adfbbae331de0da344384d745e
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1219,6 +1252,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1476,6 +1510,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 96ed879290d568adfbbae331de0da344384d745e
     <entry file="file://$PROJECT_DIR$/ionic2-master/prueba1/.editorconfig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -2121,16 +2157,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ionic2-master/lifehooks/src/pages/users/users.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
+        <state relative-caret-position="5">
           <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ionic2-master/lifehooks/src/pages/home/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ionic2-master/lifehooks/src/pages/home/home.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="63" column="36" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
+        <state relative-caret-position="224">
+          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
           <folding>
             <element signature="e#0#171#0" expanded="true" />
           </folding>

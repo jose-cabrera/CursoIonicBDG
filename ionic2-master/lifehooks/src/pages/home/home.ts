@@ -57,6 +57,8 @@ export class HomePage implements
 
 =======
 
+  model:string="";
+
   ngOnChanges() {
     console.log("OnChanges");
   }
