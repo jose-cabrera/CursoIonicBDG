@@ -37,10 +37,15 @@ export class UsersPage {
     console.log('ionViewCanLeave');
     const promise = new Promise((resolve, reject) => {
       setTimeout(() => {
-        resolve();
+        // resolve();
+        reject;
       }, 1000);
     });
     return promise;
+  }
+
+  unafuncion(){
+
   }
 
   ionViewWillLeave() {
