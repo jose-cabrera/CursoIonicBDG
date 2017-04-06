@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-import { Component, OnChanges, OnInit, DoCheck } from '@angular/core';
-=======
+
 import {
   Component,
   OnChanges,
@@ -12,7 +10,6 @@ import {
   AfterViewChecked,
   OnDestroy
 } from '@angular/core';
->>>>>>> fc693eaaf91755f6f5910b527d1bc7a545a32c0c
 
 import {UsersPage} from "../users/users";
 import {NavController} from "ionic-angular";
@@ -21,9 +18,6 @@ import {NavController} from "ionic-angular";
   selector: 'page-home',
   templateUrl: 'home.html'
 })
-<<<<<<< HEAD
-export class HomePage implements OnChanges, OnInit, DoCheck {
-=======
 export class HomePage implements
   OnChanges,
   OnInit,
@@ -33,29 +27,19 @@ export class HomePage implements
   AfterViewInit,
   AfterViewChecked,
   OnDestroy {
->>>>>>> fc693eaaf91755f6f5910b527d1bc7a545a32c0c
+
+
   usrPage = UsersPage;
+
 
   constructor(private navCtrl:NavController) {
   }
 
   onGoToUsers() {
+
     this.navCtrl.push(this.usrPage)
       .catch((error) => console.log('Access denied, Argument was ' + error));
   }
-<<<<<<< HEAD
-  ngOnChanges(){
-    console.log(" hicieron cambios");
-  }
-  ngOnInit(){
-    console.log(" INIT");
-  }
-  ngDoCheck(){
-    console.log(" Check");
-  }
-
-
-=======
 
   model:string="";
 
@@ -90,6 +74,5 @@ export class HomePage implements
   ngOnDestroy() {
     console.log("OnDestroy");
   }
->>>>>>> fc693eaaf91755f6f5910b527d1bc7a545a32c0c
 
 }
