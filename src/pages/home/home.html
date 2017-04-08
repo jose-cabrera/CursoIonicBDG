@@ -9,6 +9,6 @@
 
 <ion-content >
 
-  <google-map (mapClick)="onMapClick($event)" (mapReady)="onMapReady(e)" [camera]="camera" ></google-map>
+  <google-map (mapClick)="onMapClick($event)" (mapReady)="onMapReady($event)" [camera]="camera" [position]="position"></google-map>
 
 </ion-content>

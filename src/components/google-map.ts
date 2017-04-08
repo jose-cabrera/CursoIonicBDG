@@ -10,15 +10,21 @@ import {
 })
 export class GoogleMapComponent implements OnInit, OnDestroy {
 
-  private mapContainer: HTMLElement;
+  private mapContainer:HTMLElement;
 
-  map: GoogleMap;
+  map:GoogleMap;
 
-  private isInit: boolean = false;
+  private isInit:boolean = false;
 
-  _camera: CameraPosition;
+  _position:LatLng;
   @Input()
-  set camera(val: CameraPosition) {
+  set position(val:LatLng) {
+    this._position = val;
+  }
+
+  _camera:CameraPosition;
+  @Input()
+  set camera(val:CameraPosition) {
     this._camera = val;
     this.isInit && this.setCameraPosition();
   }
@@ -30,20 +36,20 @@ export class GoogleMapComponent implements OnInit, OnDestroy {
   //   this.isInit && this.setMarkers();
   // }
 
-  _height: string = '100%';
+  _height:string = '100%';
   @Input()
-  set height(val: string) {
+  set height(val:string) {
     this._height = val;
     this.isInit && this.setHeight();
   }
 
-  get height(): string {
+  get height():string {
     return this._height;
   }
 
-  _width: string = '100%';
+  _width:string = '100%';
   @Input()
-  set width(val: string) {
+  set width(val:string) {
     this._width = val;
     this.isInit && this.setWidth();
   }
@@ -53,17 +59,17 @@ export class GoogleMapComponent implements OnInit, OnDestroy {
   }
 
   @Output()
-  mapClick: EventEmitter<any> = new EventEmitter<any>();
+  mapClick:EventEmitter<any> = new EventEmitter<any>();
 
   @Output()
-  mapReady: EventEmitter<GoogleMap> = new EventEmitter<GoogleMap>();
+  mapReady:EventEmitter<GoogleMap> = new EventEmitter<GoogleMap>();
 
 
-  constructor(private platform: Platform,
-              private renderer: Renderer,
-              private el: ElementRef,
-              private googleMaps: GoogleMaps,
-              public modalCtrl: ModalController) {
+  constructor(private platform:Platform,
+              private renderer:Renderer,
+              private el:ElementRef,
+              private googleMaps:GoogleMaps,
+              public modalCtrl:ModalController) {
     this.mapContainer = el.nativeElement;
   }
 
@@ -130,6 +136,19 @@ export class GoogleMapComponent implements OnInit, OnDestroy {
     console.log("changeCameraPosition" + JSON.stringify(this._camera));
     this.map.moveCamera(this._camera).then(() => {
       console.log("CAMARA MOVIDA!");
+
+
+      let markerOptions:MarkerOptions = {
+        position: this._position,
+        title: ["NOMBRE DEL MARKER", "Presiona aquí para más información"].join("\n")
+      };
+      this.map.addMarker(markerOptions)
+        .then((m:Marker) => {
+          console.log("Marker added it " + JSON.stringify(m));
+          m.addEventListener(GoogleMapsEvent.INFO_CLICK).subscribe((options) => {
+            console.log("Marker pressed");
+          });
+        });
     });
   }
 

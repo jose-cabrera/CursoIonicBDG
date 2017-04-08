@@ -3,7 +3,8 @@ import {NavController} from 'ionic-angular';
 import { Geolocation } from '@ionic-native/geolocation';
 import {
   LatLng,
-  CameraPosition
+  CameraPosition,
+  GoogleMap
 } from '@ionic-native/google-maps';
 
 @Component({
@@ -22,15 +23,16 @@ export class HomePage {
   }
 
   camera:CameraPosition;
+  position:LatLng;
 
-  onMapReady() {
+  onMapReady(map:GoogleMap) {
     this.geolocation.getCurrentPosition().then(res => {
       console.log("mi posicion" + JSON.stringify(res.coords));
 
       console.log("Consumir el servicio");
-      let position: LatLng = new LatLng( res.coords.latitude,  res.coords.longitude);
+      this.position = new LatLng( res.coords.latitude,  res.coords.longitude);
       this.camera = {
-        target: position,
+        target: this.position,
         zoom: 15,
         tilt: 30
       };
