@@ -9,12 +9,21 @@ import { ListPage } from '../pages/list/list';
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 import {OneSignal} from '@ionic-native/onesignal';
+import { Geolocation } from '@ionic-native/geolocation';
+
+import {
+  GoogleMaps
+} from '@ionic-native/google-maps';
+
+import {GoogleMapComponent} from '../components/google-map';
+
 
 @NgModule({
   declarations: [
     MyApp,
     HomePage,
-    ListPage
+    ListPage,
+    GoogleMapComponent
   ],
   imports: [
     BrowserModule,
@@ -30,6 +39,8 @@ import {OneSignal} from '@ionic-native/onesignal';
     StatusBar,
     SplashScreen,
     OneSignal,
+    Geolocation,
+    GoogleMaps,
     {provide: ErrorHandler, useClass: IonicErrorHandler}
   ]
 })
