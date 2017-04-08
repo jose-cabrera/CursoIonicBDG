@@ -10,6 +10,9 @@ import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 import {OneSignal} from '@ionic-native/onesignal';
 import { Geolocation } from '@ionic-native/geolocation';
+import { Camera } from '@ionic-native/camera';
+
+import {AndroidFingerprintAuth, AFAAuthOptions} from '@ionic-native/android-fingerprint-auth';
 
 import {
   GoogleMaps
@@ -41,6 +44,8 @@ import {GoogleMapComponent} from '../components/google-map';
     OneSignal,
     Geolocation,
     GoogleMaps,
+    Camera,
+    AndroidFingerprintAuth,
     {provide: ErrorHandler, useClass: IonicErrorHandler}
   ]
 })
