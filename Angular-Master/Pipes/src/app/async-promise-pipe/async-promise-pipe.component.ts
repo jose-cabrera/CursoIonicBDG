@@ -1,3 +1,5 @@
+import {Component} from '@angular/core';
+
 @Component({
   selector: 'async-promise-pipe',
   template: `<div>
@@ -7,14 +9,21 @@
   </div>`
 })
 export class AsyncPromisePipeComponent {
-  greeting: Promise<string> = null;
-  arrived: boolean = false;
-  private resolve: Function = null;
-  constructor() { this.reset(); }
+  greeting:Promise<string> = null;
+  arrived:boolean = false;
+  private resolve:Function = null;
+
+  constructor() {
+    this.reset();
+  }
+
   reset() {
     this.arrived = false;
-    this.greeting = new Promise<string>((resolve, reject) => { this.resolve = resolve; });
+    this.greeting = new Promise<string>((resolve, reject) => {
+      this.resolve = resolve;
+    });
   }
+
   clicked() {
     if (this.arrived) {
       this.reset();
@@ -24,3 +33,4 @@ export class AsyncPromisePipeComponent {
     }
   }
 }
+
