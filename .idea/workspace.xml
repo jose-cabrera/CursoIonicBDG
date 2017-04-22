@@ -10,7 +10,14 @@
     <ignored path="$PROJECT_DIR$/tmp/" />
 =======
     <list default="true" id="04008f1a-4836-463a-b7f5-0e133eabea42" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Angular-Master/Pipes/src/app/app.component.spec.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Angular-Master/Pipes/src/app/async-promise-pipe-component/async-promise-pipe-component.component.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Angular-Master/Pipes/src/app/async-promise-pipe-component/async-promise-pipe-component.component.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Angular-Master/Pipes/src/app/async-promise-pipe-component/async-promise-pipe-component.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Angular-Master/Pipes/src/app/async-promise-pipe-component/async-promise-pipe-component.component.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Angular-Master/Pipes/src/app/async-promise-pipe-component/async-promise-pipe-component.component.ts" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -60,6 +67,12 @@
 =======
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ionic2-master/lifehooks/src/theme/variables.scss" afterPath="$PROJECT_DIR$/ionic2-master/lifehooks/src/theme/variables.scss" />
 >>>>>>> 109e835daeb2d3283c126b77f033d80942f0c17a
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular-Master/Pipes/src/app/app.component.html" afterPath="$PROJECT_DIR$/Angular-Master/Pipes/src/app/app.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular-Master/Pipes/src/app/app.module.js" afterPath="$PROJECT_DIR$/Angular-Master/Pipes/src/app/app.module.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular-Master/Pipes/src/app/app.module.js.map" afterPath="$PROJECT_DIR$/Angular-Master/Pipes/src/app/app.module.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular-Master/Pipes/src/app/app.module.ts" afterPath="$PROJECT_DIR$/Angular-Master/Pipes/src/app/app.module.ts" />
+>>>>>>> e08f69642a2e2361353c805f531f56064dac5701
     </list>
 >>>>>>> master
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,10 +103,11 @@
     <favorites_list name="CursoIonicBDG" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="config.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ionic2-master/nativePlayGround/config.xml">
+    <leaf>
+      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Angular-Master/Pipes/src/app/app.component.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -318,11 +332,16 @@
             <state relative-caret-position="17">
               <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="30" />
 >>>>>>> 109e835daeb2d3283c126b77f033d80942f0c17a
+=======
+            <state relative-caret-position="389">
+              <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+>>>>>>> e08f69642a2e2361353c805f531f56064dac5701
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       <file leaf-file-name="web.ts" pinned="false" current-in-tab="false">
@@ -335,26 +354,53 @@
       <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ionic2-master/nativePlayGround/src/app/app.component.ts">
 >>>>>>> 109e835daeb2d3283c126b77f033d80942f0c17a
+=======
+      <file leaf-file-name="number-pipe.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Angular-Master/Pipes/src/app/number-pipe/number-pipe.component.html">
+>>>>>>> e08f69642a2e2361353c805f531f56064dac5701
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#51#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ionic2-master/nativePlayGround/src/app/app.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="number-pipe.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Angular-Master/Pipes/src/app/number-pipe/number-pipe.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+              <folding>
+                <marker date="1492741872306" expanded="true" signature="101:276" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="percent-pipe.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Angular-Master/Pipes/src/app/percent-pipe/percent-pipe.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+              <folding>
+                <marker date="1492743564007" expanded="true" signature="102:179" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="i18n-select-pipe.component.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Angular-Master/Pipes/src/app/i18n-select-pipe/i18n-select-pipe.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 96ed879290d568adfbbae331de0da344384d745e
       <file leaf-file-name="home.ts" pinned="false" current-in-tab="true">
@@ -364,10 +410,63 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ionic2-master/nativePlayGround/package.json">
 >>>>>>> 109e835daeb2d3283c126b77f033d80942f0c17a
+=======
+      <file leaf-file-name="date-pipe.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Angular-Master/Pipes/src/app/date-pipe/date-pipe.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="26" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="23" selection-end-column="42" />
+            <state relative-caret-position="126">
+              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+              <folding>
+                <marker date="1492743000114" expanded="true" signature="99:248" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="title-case-pipe.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Angular-Master/Pipes/src/app/title-case-pipe/title-case-pipe.component.ts">
+>>>>>>> e08f69642a2e2361353c805f531f56064dac5701
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding>
+                <marker date="1492742936835" expanded="true" signature="103:148" placeholder="..." />
+                <marker date="1492742936835" expanded="true" signature="103:188" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.component.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Angular-Master/Pipes/src/app/app.component.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="slice-pipe-string.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Angular-Master/Pipes/src/app/slice-pipe-string/slice-pipe-string.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="30" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="30" />
+              <folding>
+                <marker date="1492741872303" expanded="true" signature="107:602" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lower-upper-pipe.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Angular-Master/Pipes/src/app/lower-upper-pipe/lower-upper-pipe.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+              <folding>
+                <marker date="1492742643257" expanded="true" signature="105:306" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -404,6 +503,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
 <<<<<<< HEAD
         <option value="$PROJECT_DIR$/TypeScript/tipado/index.html" />
         <option value="$PROJECT_DIR$/TypeScript/tipado/tipado.ts" />
@@ -447,6 +547,8 @@
         <option value="$PROJECT_DIR$/Angular-Master/cursoIonic/src/app/other.component.ts" />
         <option value="$PROJECT_DIR$/Angular-Master/cursoIonicParte2/src/app/databinding/two-way-binding.component.ts" />
         <option value="$PROJECT_DIR$/Angular-Master/cursoIonicParte2/src/app/app.module.ts" />
+=======
+>>>>>>> e08f69642a2e2361353c805f531f56064dac5701
         <option value="$PROJECT_DIR$/Angular-Master/cursoIonicParte2/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/Angular-Master/cursoIonicParte2/src/app/databinding/property-binding.component.ts" />
         <option value="$PROJECT_DIR$/Angular-Master/cursoIonicParte2/src/app/databinding/databinding.component.ts" />
@@ -505,7 +607,26 @@
         <option value="$PROJECT_DIR$/ionic2-master/nativePlayGround/package.json" />
         <option value="$PROJECT_DIR$/ionic2-master/nativePlayGround/config.xml" />
         <option value="$PROJECT_DIR$/ionic2-master/nativePlayGround/src/app/app.component.ts" />
+<<<<<<< HEAD
 >>>>>>> 109e835daeb2d3283c126b77f033d80942f0c17a
+=======
+        <option value="$PROJECT_DIR$/Angular-Master/Pipes/src/app/async-promise-pipe-component/async-promise-pipe-component.component.ts" />
+        <option value="$PROJECT_DIR$/Angular-Master/Pipes/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/Angular-Master/Pipes/src/app/async-promise-pipe/async-promise-pipe.component.ts" />
+        <option value="$PROJECT_DIR$/Angular-Master/Pipes/src/app/number-pipe/number-pipe.component.ts" />
+        <option value="$PROJECT_DIR$/Angular-Master/Pipes/src/app/json-pipe/json-pipe.component.ts" />
+        <option value="$PROJECT_DIR$/Angular-Master/Pipes/src/app/slice-pipe-string/slice-pipe-string.component.ts" />
+        <option value="$PROJECT_DIR$/Angular-Master/Pipes/src/app/slice-pipe-list/slice-pipe-list.component.ts" />
+        <option value="$PROJECT_DIR$/Angular-Master/Pipes/src/app/async-observable-pipe/async-observable-pipe.component.ts" />
+        <option value="$PROJECT_DIR$/Angular-Master/Pipes/src/app/currency-pipe/currency-pipe.component.ts" />
+        <option value="$PROJECT_DIR$/Angular-Master/Pipes/src/app/i18n-plural-pipe/i18n-plural-pipe.component.ts" />
+        <option value="$PROJECT_DIR$/Angular-Master/Pipes/src/app/lower-upper-pipe/lower-upper-pipe.component.ts" />
+        <option value="$PROJECT_DIR$/Angular-Master/Pipes/src/app/title-case-pipe/title-case-pipe.component.ts" />
+        <option value="$PROJECT_DIR$/Angular-Master/Pipes/src/app/date-pipe/date-pipe.component.ts" />
+        <option value="$PROJECT_DIR$/Angular-Master/Pipes/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/Angular-Master/Pipes/src/app/percent-pipe/percent-pipe.component.ts" />
+        <option value="$PROJECT_DIR$/Angular-Master/Pipes/src/app/i18n-select-pipe/i18n-select-pipe.component.ts" />
+>>>>>>> e08f69642a2e2361353c805f531f56064dac5701
       </list>
     </option>
   </component>
@@ -520,6 +641,7 @@
     <option name="y" value="-8" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
@@ -532,6 +654,10 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
 >>>>>>> master
+=======
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+>>>>>>> e08f69642a2e2361353c805f531f56064dac5701
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -789,7 +915,11 @@
 =======
 >>>>>>> 109e835daeb2d3283c126b77f033d80942f0c17a
       <pane id="Scope" />
+<<<<<<< HEAD
 >>>>>>> master
+=======
+      <pane id="Scratches" />
+>>>>>>> e08f69642a2e2361353c805f531f56064dac5701
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -818,7 +948,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ionic2-master" />
+              <option name="myItemId" value="Angular-Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pipes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -832,29 +966,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ionic2-master" />
+              <option name="myItemId" value="Angular-Master" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="nativePlayGround" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CursoIonicBDG" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CursoIonicBDG" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ionic2-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nativePlayGround" />
+              <option name="myItemId" value="Pipes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -872,11 +988,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ionic2-master" />
+              <option name="myItemId" value="Angular-Master" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="nativePlayGround" />
+              <option name="myItemId" value="Pipes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -888,8 +1004,413 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoIonicBDG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoIonicBDG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Angular-Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pipes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="title-case-pipe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoIonicBDG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoIonicBDG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Angular-Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pipes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="slice-pipe-string" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoIonicBDG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoIonicBDG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Angular-Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pipes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="slice-pipe-list" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoIonicBDG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoIonicBDG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Angular-Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pipes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="percent-pipe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoIonicBDG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoIonicBDG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Angular-Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pipes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="number-pipe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoIonicBDG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoIonicBDG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Angular-Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pipes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lower-upper-pipe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoIonicBDG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoIonicBDG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Angular-Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pipes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="json-pipe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoIonicBDG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoIonicBDG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Angular-Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pipes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="i18n-select-pipe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoIonicBDG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoIonicBDG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Angular-Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pipes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="i18n-plural-pipe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoIonicBDG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoIonicBDG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Angular-Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pipes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="date-pipe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoIonicBDG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoIonicBDG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Angular-Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pipes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="currency-pipe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoIonicBDG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoIonicBDG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Angular-Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pipes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="async-promise-pipe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoIonicBDG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoIonicBDG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Angular-Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pipes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="async-observable-pipe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoIonicBDG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CursoIonicBDG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Angular-Master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -908,6 +1429,8 @@
 =======
       <pane id="Scratches" />
 >>>>>>> 109e835daeb2d3283c126b77f033d80942f0c17a
+=======
+>>>>>>> e08f69642a2e2361353c805f531f56064dac5701
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1082,12 +1605,20 @@
       <workItem from="1491169972189" duration="1448000" />
       <workItem from="1491320827834" duration="265000" />
       <workItem from="1491436922928" duration="1121000" />
+<<<<<<< HEAD
       <workItem from="1491438187911" duration="3018000" />
 >>>>>>> 109e835daeb2d3283c126b77f033d80942f0c17a
+=======
+      <workItem from="1491438187911" duration="3352000" />
+      <workItem from="1491442527351" duration="617000" />
+      <workItem from="1491521896536" duration="600000" />
+      <workItem from="1492735794075" duration="4671000" />
+>>>>>>> e08f69642a2e2361353c805f531f56064dac5701
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1158,6 +1689,9 @@
 =======
     <option name="totallyTimeSpent" value="73093000" />
 >>>>>>> 109e835daeb2d3283c126b77f033d80942f0c17a
+=======
+    <option name="totallyTimeSpent" value="79315000" />
+>>>>>>> e08f69642a2e2361353c805f531f56064dac5701
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1169,6 +1703,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1184,14 +1719,18 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25893825" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
 =======
     <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
+=======
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+>>>>>>> e08f69642a2e2361353c805f531f56064dac5701
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2984032" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2978387" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="TypeScript Compiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31751227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript Compiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3170467" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24960423" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1222,6 +1761,10 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4762684" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
 >>>>>>> 109e835daeb2d3283c126b77f033d80942f0c17a
+=======
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4766558" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+>>>>>>> e08f69642a2e2361353c805f531f56064dac5701
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1254,6 +1797,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1680,6 +2224,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ionic2-master/newApp/node_modules/ionic-angular/index.d.ts" />
+=======
+>>>>>>> e08f69642a2e2361353c805f531f56064dac5701
     <entry file="file://$PROJECT_DIR$/ionic2-master/newApp/src/app/app.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -2137,7 +2683,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2145,7 +2690,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2153,7 +2697,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="31" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2161,9 +2704,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1491014917677" expanded="true" signature="116:165" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2171,7 +2711,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2179,7 +2718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2187,44 +2725,192 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ionic2-master/nativePlayGround/package.json" />
+    <entry file="file://$PROJECT_DIR$/ionic2-master/nativePlayGround/config.xml" />
+    <entry file="file://$PROJECT_DIR$/ionic2-master/nativePlayGround/src/app/app.html" />
+    <entry file="file://$PROJECT_DIR$/ionic2-master/nativePlayGround/src/app/app.component.ts" />
+    <entry file="file://$PROJECT_DIR$/Angular-Master/Pipes/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-Master/Pipes/src/app/async-promise-pipe-component/async-promise-pipe-component.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-Master/Pipes/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-Master/Pipes/src/app/slice-pipe-list/slice-pipe-list.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
           <folding>
-            <element signature="e#0#171#0" expanded="false" />
+            <marker date="1492741875912" expanded="true" signature="104:172" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ionic2-master/nativePlayGround/package.json">
+    <entry file="file://$PROJECT_DIR$/Angular-Master/Pipes/src/app/json-pipe/json-pipe.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="26" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="23" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ionic2-master/nativePlayGround/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ionic2-master/nativePlayGround/src/app/app.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ionic2-master/nativePlayGround/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        <state relative-caret-position="54">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="22" />
           <folding>
-            <element signature="e#0#51#0" expanded="true" />
+            <marker date="1492741872296" expanded="true" signature="99:224" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-Master/Pipes/src/app/async-promise-pipe/async-promise-pipe.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <marker date="1492741392089" expanded="true" signature="106:280" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-Master/Pipes/src/app/async-observable-pipe/async-observable-pipe.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-Master/Pipes/src/app/currency-pipe/currency-pipe.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding>
+            <marker date="1492741999169" expanded="true" signature="103:205" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-Master/Pipes/src/app/i18n-plural-pipe/i18n-plural-pipe.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-Master/Pipes/src/app/slice-pipe-string/slice-pipe-string.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-Master/Pipes/src/app/lower-upper-pipe/lower-upper-pipe.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding>
+            <marker date="1492742643257" expanded="true" signature="105:306" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-Master/Pipes/src/app/slice-pipe-string/slice-pipe-string.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="30" />
+          <folding>
+            <marker date="1492741872303" expanded="true" signature="107:602" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-Master/Pipes/src/app/app.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-Master/Pipes/src/app/title-case-pipe/title-case-pipe.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <marker date="1492742936835" expanded="true" signature="103:148" placeholder="..." />
+            <marker date="1492742936835" expanded="true" signature="103:188" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-Master/Pipes/src/app/date-pipe/date-pipe.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+          <folding>
+            <marker date="1492743000114" expanded="true" signature="99:248" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-Master/Pipes/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-Master/Pipes/src/app/number-pipe/number-pipe.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-Master/Pipes/src/app/number-pipe/number-pipe.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding>
+            <marker date="1492741872306" expanded="true" signature="101:276" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-Master/Pipes/src/app/percent-pipe/percent-pipe.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding>
+            <marker date="1492743564007" expanded="true" signature="102:179" placeholder="..." />
           </folding>
 >>>>>>> 053fd63088c20df294040b46d539f4a968aae1da
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular-Master/Pipes/src/app/i18n-select-pipe/i18n-select-pipe.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
