@@ -18,6 +18,7 @@ import { DatePipeComponent } from './date-pipe/date-pipe.component';
 import { I18nSelectPipeComponent } from './i18n-select-pipe/i18n-select-pipe.component';
 import { PercentPipeComponent } from './percent-pipe/percent-pipe.component';
 import { CustomPipe } from './custom.pipe';
+import { CustomPipePipe } from './custom-pipe.pipe';
 
 @NgModule({
   declarations: [
@@ -36,6 +37,7 @@ import { CustomPipe } from './custom.pipe';
     I18nSelectPipeComponent,
     PercentPipeComponent,
     CustomPipe,
+    CustomPipePipe,
   ],
   imports: [
     BrowserModule,
